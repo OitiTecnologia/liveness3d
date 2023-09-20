@@ -21,3 +21,6 @@ Agora é só colar os arquivos e pronto. SDK atualizado com sucesso.
 
 b) core-sdk-optional: localize o diretório no seguinte caminho: core/    
 Agora é só colar os arquivos e pronto. Os arquivos de tradução foram atualizados com sucesso.
+
+Consulte também om nosso Guia Rápido de Atualização para o Liveness 3D (web)
+https://devcenter.certiface.io/docs/guia-de-atualizacao-liveness-3d
